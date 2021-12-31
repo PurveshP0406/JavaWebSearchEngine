@@ -1,0 +1,2 @@
+https://www.facebook.com/sharer/sharer.php?u={{url}}
+ભૂલ ભૂલ Warning href should represent a valid URL બરાબર

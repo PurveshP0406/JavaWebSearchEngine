@@ -1,0 +1,2 @@
+https://www.bbc.com/earth
+302 Found 302 Found nginx

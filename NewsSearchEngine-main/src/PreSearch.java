@@ -31,7 +31,7 @@ public class PreSearch {
 			word = word.toLowerCase();
             if (!index.containsKey(word))
                 index.put(word, new HashSet<Integer>());
-            index.get(word).add(i);
+            index.get(word).add(i); 
 		}
 		
 	}

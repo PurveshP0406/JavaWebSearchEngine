@@ -29,7 +29,7 @@ public class Search {
 			File f = new File("WebPages/"+fileName);
 			In in = new In(f);
 			String url = in.readLine();			
-			System.out.println("-----------------------------------------");
+			System.out.println("------------------------------------------");
 			System.out.println(fileName.substring(0,fileName.length()-4)+"\t\tOccuruces : "+me.getValue());
 			System.out.println(url);  
 		}
